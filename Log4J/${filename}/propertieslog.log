@@ -1,0 +1,8 @@
+[TRACE] 2022-09-07 10:21:34.928 [main] Main - this is trace
+[DEBUG] 2022-09-07 10:21:34.930 [main] Main - this is debug
+[INFO ] 2022-09-07 10:21:34.930 [main] Main - this is info
+[WARN ] 2022-09-07 10:21:34.930 [main] Main - this is warn
+[ERROR] 2022-09-07 10:21:34.931 [main] Main - this is error
+[FATAL] 2022-09-07 10:21:34.931 [main] Main - this is fatal
+[INFO ] 2022-09-07 10:21:34.931 [main] TestController - Inside TestController
+[WARN ] 2022-09-07 10:21:34.931 [main] TestController - Warning from TestController
